@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jino Morales
 
-<!--
-**jinomorales/jinomorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Web & Mobile Developer**  
+Especializado en **Laravel**, **Node.js** y **Flutter**  
+Apasionado por construir soluciones digitales completas y multiplataforma, desde APIs robustas hasta interfaces web y móviles atractivas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Contacto
+
+📧 jino0000morales0000@gmail.com  
+🐦 [@jinomorales](https://twitter.com/jinomorales)  
+💼 [LinkedIn](https://www.linkedin.com/in/jino-morales)
+
+---
+
+### 🚀 Tecnologías que uso
+
+- **Backend:** PHP (Laravel, Livewire), Node.js (Express, Socket.io)
+- **Frontend:** HTML, CSS, Blade, Tailwind, Flutter
+- **Bases de datos:** MySQL, MongoDB
+- **Otros:** Git, API REST, Firebase
+
+---
+
+Gracias por visitar mi perfil 😊
