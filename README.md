@@ -74,8 +74,7 @@ Si te interesa ver demos o código, escríbeme y te comparto repos y previews.
 
 ## 📬 Contacto
 
-- 📧 Email: `jino0000morales0000@gmail.com`
-- 💼 LinkedIn: [Jino Morales](https://www.linkedin.com/in/jino-morales)
+- 📧 WhatsApp: `0987223133`
 
 ¿Construimos algo juntos? Cuéntame tu idea y te propongo una solución.
 
